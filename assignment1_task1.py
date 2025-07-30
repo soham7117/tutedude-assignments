@@ -1,0 +1,10 @@
+n1 = input('Enter your first number: ')
+n2 = input('Enter your second number: ')
+n1_int = int(n1)
+n2_int = int(n2)
+
+print('\n')
+print('Addition:',n1_int+n2_int)
+print('Subtraction:',n1_int-n2_int)
+print('Multiplication:',n1_int*n2_int)
+print('Division:',n1_int/n2_int)
